@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM gcr.io/google-containers/heapster_grafana:v2.6.0-2
